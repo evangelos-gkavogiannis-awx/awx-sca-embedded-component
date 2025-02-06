@@ -1,5 +1,3 @@
-
-
 # Airwallex SCA Component Implementation
 
 This is an implementation of the Airwallex KYC component as documented in the [Airwallex Documentation](https://www.airwallex.com/docs/banking-as-a-service__strong-customer-authentication-(sca)__embedded-sca-component).
@@ -30,13 +28,4 @@ To create an access token, use your pair of access keys and call the [Authentica
 Open a browser and go to `http://localhost:3000`
 
 The end user is assumed that he's trying so the remaining balances of his connected account and the SCA is triggered 
-   
-
-
-
-
-
-
-
-
    
